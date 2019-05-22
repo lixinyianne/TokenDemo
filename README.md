@@ -1,4 +1,4 @@
-# TokenDemo
+# XYtoken Demo
 A token DApp demo.
 
 This DApp is built upon truffle development framework and its PetShop Example.
